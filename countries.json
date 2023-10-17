@@ -1,4 +1,11 @@
-{
-    "bulgaria": "bulgaria.json",
-    "germany": "germany.json"
-}
+[
+	{ 
+		"bulgaria": "bulgaria.json"
+	},
+	{ 
+		"france": "france.json"
+	},
+	{ 
+		"germany": "germany.json"
+	}
+]
