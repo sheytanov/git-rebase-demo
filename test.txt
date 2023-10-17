@@ -6,6 +6,4 @@ Adding third line
 
 Another commit
 
-Final One
-
 Git Kraken
