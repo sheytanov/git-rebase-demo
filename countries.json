@@ -4,5 +4,8 @@
 	},
 	{ 
 		"france": "france.json"
+	},
+	{ 
+		"germany": "germany.json"
 	}
 ]
