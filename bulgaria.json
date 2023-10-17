@@ -46,6 +46,11 @@
         "code": "BGN",
         "name": "Bulgarian lev",
         "symbol": "лв"
+      },
+      {
+        "code": "EUR",
+        "name": "EURO",
+        "symbol": "$"
       }
     ],
     "languages": [
